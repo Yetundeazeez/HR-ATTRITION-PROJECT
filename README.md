@@ -76,8 +76,8 @@ The following insights are gotten from the demographics report:
 3. The average age of Employees is 37yrs.
 4. Attrition count: The total number of Employee that have left the company is 237.
 5. Gender: The male employees have the highest attrition rate of about 63.29% compared to the female employees.
-6. Age group: The number of employees that fall under the age group 31-45 have the highest attrition which accounted for about 103 in total.
-7. Education level:
+6. Age group: The number of employees that fall under the age group 31-45 have the highest attrition rate which accounted for about 103 in total.
+7. Education level: The employees that studied life sciences have the highest attrition rate of 89  followed by medicals (63) and so on.
 8. Marital status: The single employees have the highest number of attrition of about 120 followed by the married employees of about 84 while the divorced employees have the least number of attrition.
 
 ## TURNOVER ANALYSIS I
@@ -85,8 +85,25 @@ The following insights are gotten from the turnover analysis I report:
 1. The average monthly rate of employees is 14,31k
 2. The average working years is 11.28yrs
 3. The total number of job roles of employees is 9
-4. Attrition by 
-   
+4. Attrition by Business Travel and Gender: The attrition rate is higher for both male (102) and female (24) employees that rarely travel than the employee that frequently travel.
+5. Attrition by Department: Research & Development department has the highest attrition rate (56.12%) than the sales department and human resources department.
+6. Attrition by Job Role and Gender: The attrition rate is highest for male Laboratory Technicians (46) than the female Laboratory Technicians which is followed by the male sales executive (37).
+
+## TURNOVER ANALYSIS II
+The following insights are gotten from the turnover analysis II report:
+1. The average performance rating is 3.15
+2. The average monthly income is 6.50k
+3. Attrition by Job Level: Entry level employees have the highest attrition of 143 than the junior or associate level employees (52), mid level specialist (32), and so on.
+4. Attrition by Performance Rating: The pue chart shows that employees with low performance rating have the highest attrition of 200 when compared to those with high performance rating (37).
+5. Attrition by Over time: The bar chart shows that employees that worked overtime have the most attrition 
+(127) while those that do not work over time have less attrition rate (110).
+6. Attrition by Age group and Gender: The clustered bar chart shows that the male employees under the age group 31-45yrs have the highest attrition (67) while the female employees under the age group 18-30yrs also have the highest attrition (41).
+7. Attrition by Age group and Marital Status: The clustered bar chart shows that the single employees that falls under the age group 18-30yrs have most of the attrition.
+8. Monthly Income and Attrition by Job Role: The line graph shows that the higher the average monthly income, the lower the attrition for the Manager and Research Director.
+
+## EMPLOYEE WELLNESS
+The following insights are gotten from the employee wellness report:
+1. Attrition by Job Involvement: The barchart shows that employees that are Moderately involved with the job have the highest attrition of 124
 
 
 ---
