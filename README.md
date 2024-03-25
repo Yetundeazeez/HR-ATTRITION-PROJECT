@@ -63,11 +63,31 @@ I used data groups on the following variables to aggregate certain values togeth
 4. Performance Rating - The values with 3 is grouped as 'Low' while the values with 4 is grouped as 'High'
 5. Job Levels - values 1 is considered as 'Entry level', value 2 is considered as 'Junior or Associate Level', value 3 is considered as 'Mid level Specialist', value 4 is considered as 'Senior' and value 5 is considered as 'Executive'.
 6. Environmental, Job and Relationship Satisfaction -  Rated on a scale ranging from 1 to 4 in which value 1 represents 'Very dissatisfied, value 2 represents 'dissatisfied', value 3 represent 'Satisfied' and value 4 represents 'Very satisfied'.
-7. Job Ivolvement is also grouped as 'Very low', 'Low', 'Moderate' and 'High' on a scale of 1-4.
+7. Job Involvement is also grouped as 'Very low', 'Low', 'Moderate' and 'High' on a scale of 1-4.
 
 ---
 
 ## Results and Findings
+
+## DEMOGRAPHICS
+The following insights are gotten from the demographics report:
+1. The total number of Employees in the dataset is 1470
+2. The total number of Current or Active Employees in the company is 1233
+3. The average age of Employees is 37yrs.
+4. Attrition count: The total number of Employee that have left the company is 237.
+5. Gender: The male employees have the highest attrition rate of about 63.29% compared to the female employees.
+6. Age group: The number of employees that fall under the age group 31-45 have the highest attrition which accounted for about 103 in total.
+7. Education level:
+8. Marital status: The single employees have the highest number of attrition of about 120 followed by the married employees of about 84 while the divorced employees have the least number of attrition.
+
+## TURNOVER ANALYSIS I
+The following insights are gotten from the turnover analysis I report:
+1. The average monthly rate of employees is 14,31k
+2. The average working years is 11.28yrs
+3. The total number of job roles of employees is 9
+4. Attrition by 
+   
+
 
 ---
 
