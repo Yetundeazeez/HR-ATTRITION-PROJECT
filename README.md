@@ -43,5 +43,14 @@ The dataset used can be downloaded
 
 ## Data Cleaning and Transformation
 
+I loaded the HR ATTRITION datasets into Power BI for cleaning and transformation. After which I made the first row of the dataset as the header. I also checked for duplicate and missing values. The data types for all the variable names were also changed to whole number.
+
+
 
 ---
+
+## Results and Findings
+
+---
+
+## Recommendation
