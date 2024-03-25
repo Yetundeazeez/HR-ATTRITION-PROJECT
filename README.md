@@ -56,13 +56,14 @@ I added a conditional column by taking the dataset to the power query editor to 
 I used the DAX functions to calculate the Current Employee and Attrition rate.
 
 I used data groups on the following variables to aggregate certain values together for meaningful insights:
-1. Age group - Ages 18, 19, 20 to 30 are grouped as '18-30', ages 31, 32 to 35 are grouped as '31-35' and ages 46 to 60 are grouped as '46-60'.
+1. Age group - Ages 18, 19, 20 to 30 are grouped as '18-30', ages 31, 32 to 45 are grouped as '31-45' and ages 46 to 60 are grouped as '46-60'.
 2. Distance from Home - 1-10 is considered as 'Near', 10-20 is considered as 'Far' and 20-30 is considered as 'Very far'.
 3. Work Life Balance - Value 1 is considered as 'Bad', value 2 is considered as 'Average', value 3 as 
 'Good' and value 4 is considered as 'Excellent'.
-4. 
-
-
+4. Performance Rating - The values with 3 is grouped as 'Low' while the values with 4 is grouped as 'High'
+5. Job Levels - values 1 is considered as 'Entry level', value 2 is considered as 'Junior or Associate Level', value 3 is considered as 'Mid level Specialist', value 4 is considered as 'Senior' and value 5 is considered as 'Executive'.
+6. Environmental, Job and Relationship Satisfaction -  Rated on a scale ranging from 1 to 4 in which value 1 represents 'Very dissatisfied, value 2 represents 'dissatisfied', value 3 represent 'Satisfied' and value 4 represents 'Very satisfied'.
+7. Job Ivolvement is also grouped as 'Very low', 'Low', 'Moderate' and 'High' on a scale of 1-4.
 
 ---
 
