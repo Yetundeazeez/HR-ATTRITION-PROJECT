@@ -90,7 +90,7 @@ The following insights are gotten from the turnover analysis I report:
 2. The average working years is 11.28yrs
 3. The total number of job roles of employees is 9
 4. Attrition by Business Travel and Gender: The attrition rate is higher for both male (102) and female (24) employees that rarely travel than the employee that frequently travel.
-5. Attrition by Department: Research & Development department has the highest attrition rate (56.12%) than the sales department and human resources department.
+5. Attrition by Department: The doughnut chart shows that the research & Development department has the highest attrition rate (56.12%) than the sales department and human resources department.
 6. Attrition by Job Role and Gender: The attrition rate is highest for male Laboratory Technicians (46) than the female Laboratory Technicians which is followed by the male sales executive (37).
 
 ## TURNOVER ANALYSIS II
