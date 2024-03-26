@@ -39,7 +39,8 @@ The tool used for this project analysis is Power BI and it can be found [here](h
 ## Data Cleaning and Transformation
 The following data cleaning and transformation processes perform on the dataset:
 
-I loaded the HR ATTRITION datasets into Power BI for cleaning and transformation. 
+I loaded the HR ATTRITION datasets into Power BI for cleaning and transformation.
+![](1.jpg)
 
 After which I made the first row of the dataset as the header. 
 
