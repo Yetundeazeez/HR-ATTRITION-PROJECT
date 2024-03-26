@@ -69,7 +69,7 @@ I used data groups on the following variables to aggregate certain values togeth
 
 ## DEMOGRAPHICS
 
-![](IMG-20240326-WA0017)
+![](IMG-20240326-WA0017.jpg)
 
 The following insights are gotten from the demographics report:
 1. The total number of Employees in the dataset is 1470
@@ -83,7 +83,7 @@ The following insights are gotten from the demographics report:
 
 ## TURNOVER ANALYSIS I
 
-![](IMG-20240326-WA0020)
+![](IMG-20240326-WA0020.jpg)
 
 The following insights are gotten from the turnover analysis I report:
 1. The average monthly rate of employees is 14,31k
@@ -95,7 +95,7 @@ The following insights are gotten from the turnover analysis I report:
 
 ## TURNOVER ANALYSIS II
 
-![](IMG-20240326-WA0019)
+![](IMG-20240326-WA0019.jpg)
 
 The following insights are gotten from the turnover analysis II report:
 1. The average performance rating is 3.15
@@ -110,7 +110,7 @@ The following insights are gotten from the turnover analysis II report:
 
 ## EMPLOYEE WELLNESS
 
-![](IMG-20240326-WA0018)
+![](IMG-20240326-WA0018.jpg)
 
 The following insights are gotten from the employee wellness report:
 1. The average hourly rate is 65.89k
