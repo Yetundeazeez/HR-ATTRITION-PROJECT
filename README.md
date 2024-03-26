@@ -103,9 +103,18 @@ The following insights are gotten from the turnover analysis II report:
 
 ## EMPLOYEE WELLNESS
 The following insights are gotten from the employee wellness report:
-1. Attrition by Job Involvement: The barchart shows that employees that are Moderately involved with the job have the highest attrition of 124
-
+1. The average hourly rate is 65.89k
+2. The average environment satisfaction is 2.72
+3. The average job satisfaction is 2.73
+4. Attrition by Job Involvement: The barchart shows that employees that are Moderately involved with the job have the highest attrition of 124 followed by employees with low job involvement (71).
+5. Attrition by Work Life Balance: The piechart shows that employees with good work life balance have the most attrition rate (53.59%) while employees with bad work life balance have the least attrition rate (10.5%).
+6. Attrition by Relationship: The bar chart shows that employees that are satisfied with their relationships have the highest attrition (71) while  employees that are very dissatisfied with their relationships have the lowest attrition (45).
+7. Attition by Job Satisfaction: The bar chart shows that employees that are satisfied with their jobs have the most attrition (73) while employees that are dissatisfied with their jobs have the least attrition (46).
+8. Attition by Environment Satisfaction: The bar chart shows that employees that are very dissatisfied with their environment have the most attrition (72) while employees that are dissatisfied with their environment have the least attrition (43).
 
 ---
 
 ## Recommendation
+
+The following are the recommendations made based on the insights derived:
+- 
