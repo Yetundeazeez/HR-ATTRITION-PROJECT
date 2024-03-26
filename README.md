@@ -68,6 +68,9 @@ I used data groups on the following variables to aggregate certain values togeth
 ## Results and Findings
 
 ## DEMOGRAPHICS
+
+![](IMG-20240326-WA0017)
+
 The following insights are gotten from the demographics report:
 1. The total number of Employees in the dataset is 1470
 2. The total number of Current or Active Employees in the company is 1233
@@ -79,6 +82,9 @@ The following insights are gotten from the demographics report:
 8. Marital status: The single employees have the highest number of attrition of about 120 followed by the married employees of about 84 while the divorced employees have the least number of attrition.
 
 ## TURNOVER ANALYSIS I
+
+![](IMG-20240326-WA0020)
+
 The following insights are gotten from the turnover analysis I report:
 1. The average monthly rate of employees is 14,31k
 2. The average working years is 11.28yrs
@@ -88,6 +94,9 @@ The following insights are gotten from the turnover analysis I report:
 6. Attrition by Job Role and Gender: The attrition rate is highest for male Laboratory Technicians (46) than the female Laboratory Technicians which is followed by the male sales executive (37).
 
 ## TURNOVER ANALYSIS II
+
+![](IMG-20240326-WA0019)
+
 The following insights are gotten from the turnover analysis II report:
 1. The average performance rating is 3.15
 2. The average monthly income is 6.50k
@@ -100,6 +109,9 @@ The following insights are gotten from the turnover analysis II report:
 8. Monthly Income and Attrition by Job Role: The line graph shows that the higher the average monthly income, the lower the attrition for the Manager and Research Director.
 
 ## EMPLOYEE WELLNESS
+
+![](IMG-20240326-WA0018)
+
 The following insights are gotten from the employee wellness report:
 1. The average hourly rate is 65.89k
 2. The average environment satisfaction is 2.72
