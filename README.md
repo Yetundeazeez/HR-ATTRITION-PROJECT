@@ -6,7 +6,6 @@
 - [Dataset](#Dataset)
 - [Tools Used for Analysis](#Tools-Used-for-Analysis)
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
-- [Tools Used](#Tools-Used)
 - [Results and Findings](#Results-and-Findings)
 - [Recommendation](#Recommendation)
 ---
