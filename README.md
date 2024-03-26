@@ -109,8 +109,6 @@ The following insights are gotten from the turnover analysis II report:
 - [Dataset](#Dataset)
 - [Tools Used for Analysis](#Tools-Used-for-Analysis)
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
-- [Query 3](#Query-3)
-- [Query 6](#Query-6)
 - [Tools Used](#Tools-Used)
 - [Results and Findings](#Results-and-Findings)
 - [Recommendation](#Recommendation)
@@ -138,7 +136,7 @@ The dataset used can be downloaded
 ---
 
 ## Tools Used for Analysis 
-The dataset used can be downloaded 
+The tool used for this project analysis is Power BI and it can be found [here](https://powerbi.microsoft.com/en-us/downloads/)
 
 ---
 
@@ -212,18 +210,6 @@ The following insights are gotten from the employee wellness report:
 6. Attrition by Relationship Satisfaction: The bar chart shows that employees that are satisfied with their relationships have the highest attrition (71) while  employees that are very dissatisfied with their relationships have the lowest attrition (45).
 7. Attition by Job Satisfaction: The bar chart shows that employees that are satisfied with their jobs have the most attrition (73) while employees that are dissatisfied with their jobs have the least attrition (46).
 8. Attition by Environment Satisfaction: The bar chart shows that employees that are very dissatisfied with their environment have the most attrition (72) while employees that are dissatisfied with their environment have the least attrition (43).
----
-
-## Recommendation
-
-The following are the recommendations made based on the insights derived:
-
-- Work Life Balance: The company should help employees achieve an excellent and healthy balance between their work and personal lives by providing flexible work arrangements and remote work options for their employees.
-- Relationship Satisfaction:
-- Job Satisfaction: Competitive salaries and other benefits should be provided to the employees in order to them productive and innovative.
-- Environment Satisfaction: The company should create an environment for workers to learn, make mistakes and improve themselves.
-- Job Involvement: Team work and collaboration should be encouraged among workers as this would keep them engaged and invested in their work.
-r the Manager and Research Director.
 
 ## EMPLOYEE WELLNESS
 The following insights are gotten from the employee wellness report:
@@ -242,7 +228,8 @@ The following insights are gotten from the employee wellness report:
 The following are the recommendations made based on the insights derived:
 
 - Work Life Balance: The company should help employees achieve an excellent and healthy balance between their work and personal lives by providing flexible work arrangements and remote work options for their employees.
-- Relationship Satisfaction:
+- Relationship Satisfaction: Open communication should be greatly encouraged for employees to express their thoughts about their colleagues. Also, opportunities for social interaction should be provided to improve the relationships amongst themselves.
 - Job Satisfaction: Competitive salaries and other benefits should be provided to the employees in order to them productive and innovative.
-- Environment Satisfaction: The company should create an environment for workers to learn, make mistakes and improve themselves.
-- Job Involvement: Team work and collaboration should be encouraged among workers as this would keep them engaged and invested in their work.
+- Environment Satisfaction: The company should create a supportive work environment for workers to learn, make mistakes and improve themselves and also give feedbacks on their performances at work.
+- Job Involvement: Team work and collaboration should be encouraged among workers as this would keep them fully engaged and invested in their work.
+- Performance Rating: Employees' performance can be increased by providing the necessary resources and supports needed for their jobs. Training opportunities should be made available to all for better improvement.
