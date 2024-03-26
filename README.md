@@ -42,12 +42,14 @@ The following data cleaning and transformation processes perform on the dataset:
 I loaded the HR ATTRITION datasets into Power BI for cleaning and transformation.
 ![](1.jpg)
 
-After which I made the first row of the dataset as the header. 
+After which I made the first row of the dataset as the header.
+![](2.jpg)
 
 I also checked for duplicate and missing values. 
 The data types for some the variable names starting from the Age, distance from home, employee count, etc were also changed to whole number.
 
 I added a conditional column by taking the dataset to the power query editor to calculate the attrition count and then changed the data type to whole number.
+![](3.jpg)
 
 I used the DAX functions to calculate the Current Employee and Attrition rate.
 
