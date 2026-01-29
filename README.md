@@ -12,7 +12,7 @@
 ---
 
 ## Project Overview
-The purpose of this project is to perform data analysis on the HR dataset based on the indicators that mostly affect the employment status of employees in a company to know more about the Workforce & Operational Stability Analysis
+The purpose of this project is to perform data analysis on the HR dataset based on the indicators that mostly affect the employment status of employees to know more about the Workforce & Operational Stability of the company.
 
 This project report focuses on four important insights which are
 1. Demographic insights reflects the summary of the employee statistics which includes the age group, 
