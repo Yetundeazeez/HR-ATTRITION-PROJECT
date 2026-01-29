@@ -30,7 +30,6 @@ gender, marital status, etc.
 The dataset used can be downloaded 
 [here](HR-Employee-Attrition.csv)
 
-(https://drive.google.com/file/d/1sBnniRB8LApHtMCEED0_rf3mLA0Abrtf/view?usp=drivesdk)
 
 ---
 
