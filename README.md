@@ -1,4 +1,5 @@
-# HR ATTRITION PROJECT
+
+# WORKFORCE AND OPERATIONAL STABILITY ANALYSIS
 
 ---
 ## **Project Outline**
@@ -11,7 +12,7 @@
 ---
 
 ## Project Overview
-The purpose of this project is to perform data analysis on the HR ATTRITION dataset based on the indicators that mostly affect the employment status of employees in a company.
+The purpose of this project is to perform data analysis on the HR dataset based on the indicators that mostly affect the employment status of employees in a company to know more about the Workforce & Operational Stability Analysis
 
 This project report focuses on four important insights which are
 1. Demographic insights reflects the summary of the employee statistics which includes the age group, 
@@ -39,7 +40,7 @@ The tool used for this project analysis is Power BI and it can be found [here](h
 ## Data Cleaning and Transformation
 The following data cleaning and transformation processes perform on the dataset:
 
-I loaded the HR ATTRITION datasets into Power BI for cleaning and transformation.
+I loaded the HR datasets into Power BI for cleaning and transformation.
 ![](1.jpg)
 
 After which I made the first row of the dataset as the header.
