@@ -28,7 +28,9 @@ gender, marital status, etc.
 ---
 ## Dataset
 The dataset used can be downloaded 
-[here](https://drive.google.com/file/d/1sBnniRB8LApHtMCEED0_rf3mLA0Abrtf/view?usp=drivesdk)
+[here](HR-Employee-Attrition.csv)
+
+(https://drive.google.com/file/d/1sBnniRB8LApHtMCEED0_rf3mLA0Abrtf/view?usp=drivesdk)
 
 ---
 
